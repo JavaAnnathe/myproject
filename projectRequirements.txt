@@ -1,0 +1,3 @@
+The application should contain following functionalities
+1.A dashboard
+2.Navigation menus
